@@ -53,7 +53,7 @@ const App = () => {
     <div
       style={{
         backgroundImage: `url(${heBg})`,
-        backgroundSize: "400px",
+        backgroundSize: "100%",
       }}
       ref={container}
       onMouseMove={(e) => mouseHandler(e)}
