@@ -1,0 +1,7 @@
+.zoom {
+  @apply w-[500px] h-[600px] z-10;
+}
+
+.bg-zoom {
+  @apply fixed top-0 left-0 bg-black/20 w-full h-full;
+}
